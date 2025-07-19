@@ -14,7 +14,6 @@ This is a responsive personal portfolio website made using HTML, CSS & JavaScrip
 
 ### Original Template Credit:
 
-- Based on [Bedimcode](https://www.youtube.com/@Bedimcode)'s open-source template
-- Video Tutorial: [Watch it on YouTube](https://youtu.be/AKNvTxWOdKw)
+
 
 ![preview img](/preview.png)
